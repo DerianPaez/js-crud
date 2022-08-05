@@ -1,0 +1,8 @@
+@media (min-width: 768px) {
+  .team__info__header {
+    grid-template-columns: max-content max-content;
+  }
+  .team__info {
+    overflow-x: hidden;
+  }
+}
